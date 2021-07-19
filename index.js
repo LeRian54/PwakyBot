@@ -101,4 +101,4 @@ Client.on("message", message => {
 
 
 
-Client.login("Nzc5MDI0OTE3MDYwMTI0Njky.X7ahfQ.du0AKA8zqTNZ58Gdv-sHbqQs8CA");
+Client.login("Nzc5MDI0OTE3MDYwMTI0Njky.X7ahfQ.owKUp2xnNITghXA-8zPjbOcZxrk");
