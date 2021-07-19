@@ -1,0 +1,2 @@
+# PwakyBot
+Pwaky Discord BB
